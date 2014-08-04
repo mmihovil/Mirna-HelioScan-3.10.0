@@ -1,0 +1,10 @@
+*.aliases
+*.lvlps
+*.db
+*.tiff
+*.tif
+*.jpg
+*.ome-tiff
+\configuration
+\settings
+popup.txt
